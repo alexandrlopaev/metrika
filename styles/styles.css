@@ -114,7 +114,7 @@ h3 {
   width: 100%;
   height: 153px;
   margin-bottom: 150px;
-  border: 1px solid red;
+  border: 1px solid #ad1818;
   text-align: center;
   line-height: 153px;
   font-size: 31px;
@@ -124,7 +124,7 @@ h3 {
 }
 .allprojekts:hover {
   color: white;
-  background-color: #ad1818;
+  background-color:#ad1818;
 }
 .section_blac {
   background-color: #121212;
